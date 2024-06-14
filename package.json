@@ -1,0 +1,32 @@
+{
+  "name": "passport-meta-v2",
+  "version": "1.0.0",
+  "description": "Custom Passport strategies for Facebook and Instagram",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkzhen/passport-meta-v2.git"
+  },
+  "keywords": [
+    "passport",
+    "authentication",
+    "facebook",
+    "instagram",
+    "oauth",
+    "meta"
+  ],
+  "author": "Dani Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkzhen/passport-meta-v2/issues"
+  },
+  "homepage": "https://github.com/dkzhen/passport-meta-v2#readme",
+  "dependencies": {
+    "passport": "^0.4.1",
+    "oauth": "^0.9.15",
+    "util": "^0.12.5"
+  }
+}
